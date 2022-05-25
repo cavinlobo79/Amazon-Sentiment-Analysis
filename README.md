@@ -1,0 +1,2 @@
+# Amazon-Sentiment-Analysis
+I'd like to share my project on Customer Sentiments on Amazon. As the dataset is very messy, the main focus of this project shows and explains the full #realworlddata . Starting with importing messy data, cleaning data, merging and concatenating data, grouping and aggregating data, Exploratory Data Analysis through to preparing and processing data for Statistics, Machine Learning , NLP &amp; Time Series and Data Presentation. I've conducted sentiment analysis on Amazon's Customers and performed NLP to convert text into vector.
